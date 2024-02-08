@@ -8,7 +8,7 @@ i'm currently pursuing BCA
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chetanbelwal81@gmail.com](mailto:chetanbelwal81@gmail.com)
-* 🧠  I'm learning python and java
+* 🧠  I'm learning NestJs and NodeJs
 
 ### Skills
 
