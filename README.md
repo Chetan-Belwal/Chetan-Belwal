@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chetan Belwal
 =====================================================================================================================================
-
-Student at Pal college institute of technology and management
 -------------------------------------------------------------
 
-i'm currently pursuing BCA
+I am currently working as a software developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chetanbelwal81@gmail.com](mailto:chetanbelwal81@gmail.com)
